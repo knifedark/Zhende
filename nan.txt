@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 life diffcult
+=======
+ha sa ki 
+>>>>>>> Stashed changes
